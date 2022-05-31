@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+}
+
+.container {
+    background-image: url('./record.png');
+    background-repeat: repeat;
+    height: 100vh;
+}
+
+.header {
+    background: #333;
+    color: #fff;
+    text-align: center;
+}
+
+.main {
+    background-color: #c6c6c6;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 1em;
+    margin-top: 45vh;
+    text-align: center;
+    border: 2px black solid;
+
+    
+}
+
