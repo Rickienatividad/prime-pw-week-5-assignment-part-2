@@ -8,14 +8,14 @@ body {
     height: 100vh;
 }
 
-.header {
+header {
     background: #333;
     color: #fff;
     text-align: center;
     height: 90px;
 }
 
-.main {
+main {
     background-color: #c6c6c6;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding: 1em;
